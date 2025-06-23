@@ -1,0 +1,10 @@
+:root {
+  --primary: #1e40af;
+  --secondary: #f59e0b;
+  --dark: #1f2937;
+  --light: #f9fafb;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
